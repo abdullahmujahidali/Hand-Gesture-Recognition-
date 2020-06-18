@@ -7,6 +7,9 @@
 [![Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/abdullahmujahidali/Hand-Gesture-Recognition-/blob/master/LICENSE)
 [![GitHub followers](https://img.shields.io/github/followers/abdullahmujahidali.svg?style=social&label=Follow)](https://github.com/abdullahmujahidali)
+
+[![Instagram Follow](https://img.shields.io/instagram/follow/abdullahmujahidali.svg?style=social)](https://www.instagram.com/abdullahmujahidali/)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/abdulladgaf.svg?style=social)](https://twitter.com/abdulladgaf)
 
 Please consider following this project's author, [Abdullah Mujahid](https://github.com/abdullahmujahidali), and consider starring the project to show your :heart: and support.
