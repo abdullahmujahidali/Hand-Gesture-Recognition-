@@ -7,7 +7,7 @@
 [![Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/abdullahmujahidali/Hand-Gesture-Recognition-/blob/master/LICENSE)
 [![GitHub followers](https://img.shields.io/github/followers/abdullahmujahidali.svg?style=social&label=Follow)](https://github.com/abdullahmujahidali)
-[![Twitter Follow](https://img.shields.io/twitter/follow/saadtanveer3121.svg?style=social)](https://twitter.com/abdulladgaf)
+[![Twitter Follow](https://img.shields.io/twitter/follow/abdulladgaf.svg?style=social)](https://twitter.com/abdulladgaf)
 
 Please consider following this project's author, [Abdullah Mujahid](https://github.com/abdullahmujahidali), and consider starring the project to show your :heart: and support.
 
@@ -54,7 +54,7 @@ $ pyhton3 main.py
 
 ### License
 
-Copyright © 2020, [Sharoz Tanveer](https://github.com/abdullahmujahidali).
+Copyright © 2020, [Abdullah Mujahid](https://github.com/abdullahmujahidali).
 Released under the [MIT License](LICENSE).
 
 
