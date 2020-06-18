@@ -1,4 +1,4 @@
-# Face-Detection-and-Recognition
+# Hand-Gesture-Recognition-
 
 
 
@@ -37,7 +37,7 @@ $ git clone https://github.com/abdullahmujahidali/Hand-Gesture-Recognition-.git
 $ pip3 install -r requirements.txt
 ```
 
-#### Email @ sharoz.py@gmail.com and i'll send you weights and cfg file for Face detection
+#### Email @ abdullahmujahidali.@gmail.com and i'll send you weights and cfg file for Hand Gesture Recognition 
 * Run
 ```bash
 $ pyhton3 main.py
@@ -46,7 +46,7 @@ $ pyhton3 main.py
 
 ### Author
 
-**Sharoz Tanveer**
+**Abdullah Mujahid**
 
 * [LinkedIn Profile](https://https://www.linkedin.com/in/abdullah-mujahid-211849186/)
 * [GitHub Profile](https://github.com/abdullahmujahidali)
