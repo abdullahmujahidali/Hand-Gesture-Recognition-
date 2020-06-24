@@ -30,7 +30,18 @@ Please consider following this project's author, [Abdullah Mujahid](https://gith
 
 * Clone this Repo
 ```bash
-$ git clone https://github.com/abdullahmujahidali/Hand-Gesture-Recognition-.git
+
+
+        ∧∧
+　　 ( ´◔ω◔`)　＜・・・・・・ $ git clone https://github.com/abdullahmujahidali/Hand-Gesture-Recognition-.git
+　 ＿|　⊃／(＿＿_
+／　└-(＿＿＿_／
+￣￣￣￣￣￣￣
+
+　＜⌒／ヽ-､＿＿ 　 　　*thanks
+／＜_/＿＿＿＿／
+
+
 ```
 * Install requirements
 ```bash
