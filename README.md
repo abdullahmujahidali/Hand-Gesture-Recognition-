@@ -11,6 +11,8 @@
 
 Please consider following this project's author, [Abdullah Mujahid](https://github.com/abdullahmujahidali), and consider starring the project to show your :heart: and support.
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/0U1XK2Tydb0)
+
 ## Project Features.
 * Detects real time object and recognize which digit it is from 1 - 5 .
 * Detects number from a video from 1 - 5 digits.
