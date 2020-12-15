@@ -15,7 +15,7 @@ Please consider following this project's author, [Abdullah Mujahid](https://gith
 
 ## Project Features.
 * Detects real time object and recognize which digit it is from 1 - 5 .
-* Detects number from a video from 1 - 5 digits.
+* Detects number from a video from 1 - 5 digits..
 
 
 ## Prerequisites
