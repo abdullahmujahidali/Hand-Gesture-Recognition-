@@ -24,6 +24,8 @@ Please consider following this project's author, [Abdullah Mujahid](https://gith
 * Numpy
 * PyQt5
 
+## Kaggle Link
+https://www.kaggle.com/abdullahmujahidali/hand-gesture-recongition-yolo-v3
 
 ## Yolo v3
 * For Real time object Detection [Yolo](https://pjreddie.com/darknet/yolo/) (You Only Look Once) is used.
