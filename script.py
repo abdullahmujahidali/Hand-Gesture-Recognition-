@@ -1,8 +1,5 @@
 import cv2
 import numpy as np
-# loading yolo algorithm
-# dnn is deep neural network 
-# Loading  Yolo weights --> pre-trained model and the configuration file
 net = cv2.dnn.readNet("./Yolo/yolov3_custom_last.weights", "./Yolo/yolov3_custom.cfg") 
 classes = list()
 f= open("./Yolo/obj.names", "r") # read .names file
