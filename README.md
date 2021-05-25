@@ -11,6 +11,12 @@
 
 Please consider following this project's author, [Abdullah Mujahid](https://github.com/abdullahmujahidali), and consider starring the project to show your :heart: and support.
 
+## Don't forget to cite my paper in your research work :)
+Mujahid, A., Awan, M. J., Yasin, A., Mohammed, M. A., Damaševičius, R., Maskeliūnas, R., & Abdulkareem, K. H. (2021). Real-Time Hand Gesture Recognition Based on Deep Learning YOLOv3 Model. Applied Sciences, 11(9), 4164.
+
+## LINK TO MY ARTICLE
+https://www.mdpi.com/2076-3417/11/9/4164
+
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/0U1XK2Tydb0)
 
 ## Project Features.
