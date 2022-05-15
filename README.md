@@ -58,7 +58,11 @@ https://www.kaggle.com/abdullahmujahidali/hand-gesture-recongition-yolo-v3
 $ pip3 install -r requirements.txt
 ```
 
+
 #### Email @ abdullahmujahidali.@gmail.com and i'll send you weights and cfg file for Hand Gesture Recognition 
+
+## For Dataset if I don't get back to you [Dataset & Model](https://drive.google.com/drive/folders/1hun3F4YdwpgCSk_bDeCC2azYs6bUjHEh?usp=sharing)
+
 * Run
 ```bash
 $ pyhton3 main.py
